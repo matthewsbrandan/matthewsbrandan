@@ -6,4 +6,3 @@
 - 💬 Atualmente utilizo as stacks: PHP, MySQL, HTML+CSS+JS+JQuery com Bootstrap, mas estou explorando novos caminhos como Node.js e React.
 - 📫 Email: mateusfleria@gmail.com | Linkedin: https://www.linkedin.com/in/mateus-f-b2b453131/
 - ⚡ Sobre mim: Gosto muito de ficção cientificas e de teorias sobre a próxima fase do UCM(Universo Cinematográfico Marvel).
--->
